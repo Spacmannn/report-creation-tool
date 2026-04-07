@@ -34,6 +34,3 @@
 **Improvements over existing processes**:
 - Reduces Manual Rewriting: Helps users automate structuring of academic text and significantly speed up the drafting process.
 - Goes Beyond Standard Grammar Checkers: Unlike tools like Grammarly, which focus on grammar/spelling, this system focuses on structural logic and factual accuracy within the text.
-
-Github Repository: https://github.com/Spacmannn/report-creation-tool 
-
